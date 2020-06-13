@@ -2,5 +2,6 @@
 
 * MariaDB
 * MongoDB
-* SqlServer 
+* SqlServer
 * RabbitMQ
+* Postgres
