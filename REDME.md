@@ -2,6 +2,8 @@
 
 * MariaDB
 * MongoDB
-* SqlServer
-* RabbitMQ
 * Postgres
+* RabbitMQ
+* SqlServer
+* SqlServer e RabbitMQ
+* Wordpress
