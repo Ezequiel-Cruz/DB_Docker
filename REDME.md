@@ -7,3 +7,5 @@
 * SqlServer
 * SqlServer e RabbitMQ
 * Wordpress
+* Kafka
+* Kibana
